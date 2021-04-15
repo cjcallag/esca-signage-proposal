@@ -15,6 +15,8 @@ This repository was created to host a dynamic representation of the information 
 
 This document is designed to serve as a visual aid for planners. The views expressed here are not those of the authors, the landowners or any regulatory agency associated with the former Fort Ord. 
 
+<center>
 ```{r, echo = FALSE, out.width = "20%", fig.align='center'}
-knitr::include_graphics("ESCA-logo.png")
+knitr::include_graphics("imgs/ESCA-logo.png")
 ```
+</center>
