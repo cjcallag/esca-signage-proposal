@@ -1,0 +1,14 @@
+name: "ESCA Signage Committee Proposed Locations"
+output_dir: "_site"
+navbar:
+  title: ""
+  left:
+    - text: "Map"
+      href: index.html
+    - text: "Table"
+      href: table.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo

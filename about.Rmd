@@ -1,0 +1,37 @@
+---
+title: "About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fontawesome)
+```
+
+This document was developed to support the goals of the ESCA Signage Committee:
+  
+  - Promoting the health and safety of people on ESCA lands through signage.
+  - Developing cohesive standards for planning, designing, fabricating, ordering, installing, and maintaining signs consistently.
+  
+## Types of Signage Proposed
+
+The four types of signage proposed at the ESCA Signage Committee include:
+
+  - *Usage Control Signage:* Present acceptable and unacceptable uses at entry points.
+  - *Restricted Area Signage:* Notify land users of access restrictions and list applicable municipal code.
+  - *Gate Access Signage:* Identify high traffic gates around former Fort Ord, making it easier for emergency responders to identify their location.
+  - *Directional Trail Signage:* Aid users in understanding the trail network and how to best use the land.
+  
+## Disclaimer
+  
+This document is designed to serve as a visual aid for planners. The views expressed here are not those of the authors, the landowners or any regulatory agency associated with the former Fort Ord. 
+
+```{r, echo = FALSE, out.width = "20%", fig.align='center'}
+knitr::include_graphics("imgs/ESCA-logo.png")
+```
+
+
+<hr></br>
+
+<center><small>Proudly made with open source software by [Chris Callaghan](https://github.com/cjcallag), code available on [`r fa('github')`](https://github.com/cjcallag/esca-signage-proposal).</small></center>
+
