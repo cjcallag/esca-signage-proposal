@@ -13,5 +13,5 @@ views expressed here are not those of the authors, the landowners or any
 regulatory agency associated with the former Fort Ord.
 
 <center>
-<img src="imgs/ESCA-logo.png" width="20%" style="display: block; margin: auto;" />
+<img src="imgs/ESCA-logo.png" width="20%" />
 </center>
