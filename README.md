@@ -12,6 +12,3 @@ This document is designed to serve as a visual aid for planners. The
 views expressed here are not those of the authors, the landowners or any
 regulatory agency associated with the former Fort Ord.
 
-<center>
-<img src="imgs/ESCA-logo.png" width="20%" style = "diplay: block; margin-left: 50%; margin-right:50%;"/>
-</center>
