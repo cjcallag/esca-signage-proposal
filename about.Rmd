@@ -24,10 +24,10 @@ The four types of signage proposed at the ESCA Signage Committee include:
   
   &emsp; <img src = "imgs/gate.png" width = "2%"> &ensp; *Gate Access:* Identify high traffic gates around former Fort Ord, making it easier for emergency responders to identify their location.
   
-  &emsp; <img src = "imgs/direction.png" width = "2%"> &ensp; *Directional: Trail:* Aid users in understanding the trail network and how to best use the land.
+  &emsp; <img src = "imgs/direction.png" width = "2%"> &ensp; *Directional - Trail:* Aid users in understanding the trail network and how to best use the land.
   
 <table style = "border: 1px black solid;"><tr><td style = "padding: 10px; text-align: left; background-color: #f5f5f5; font-size: 12px;">
-**Note:** *Directional: Trail Signage* locations have not been included in this proposal. As discussed during the ESCA Signage Committee, land owning jurisdictions must first determine which trails will be sanctioned within their respective land prior to determining where signs should be placed.
+**Note:** *Directional- Trail Signage* locations have not been included in this proposal. As discussed during the ESCA Signage Committee, land owning jurisdictions must first determine which trails will be sanctioned within their respective land prior to determining where signs should be placed.
 </td></tr></table>
 
 <br>
