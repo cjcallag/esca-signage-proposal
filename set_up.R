@@ -224,7 +224,7 @@ signs <- signs[, c("color", "jurisdiction", "content", "Latitude", "Longitude") 
           </br>
           <li>Restrictions (e.g., NO TRESSPASSING Violators will be prosecuted)</li>
           </br>
-          <li>Referring to Jurisdiction Code (e.g., City of Monterey Code)</li>
+          <li>Jurisdiction Code (e.g., City of Monterey Code, Monterey County Code)</li>
         </ul>",
         cat          == "Usage Control Sign",
         "<ul>
